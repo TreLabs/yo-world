@@ -1,2 +1,3 @@
 # yo-world
-Obligatory hello world intro with the appropriate nonsense
+Well, so what if it was stale.
+I wonder if other edittors are integrated with Git
